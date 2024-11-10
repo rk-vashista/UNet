@@ -639,4 +639,284 @@ Epoch [319/2000]
 Epoch [320/2000]
 Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.32s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.14s/it]                                                         Train Loss: 0.2346 | Validation Loss: 0.2636
 Epoch [321/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.21s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.13s/it]                                                         Train Loss: 0.2373 | Validation Loss: 0.2682
+Epoch [322/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:30<00:00, 30.16s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.13s/it]                                                         Train Loss: 0.2340 | Validation Loss: 0.3019
+Epoch [323/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.08s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.22s/it]                                                         Train Loss: 0.2383 | Validation Loss: 0.2535
+Epoch [324/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.83s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.11s/it]                                                         Train Loss: 0.2351 | Validation Loss: 0.2540
+Epoch [325/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:30<00:00, 30.03s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.08s/it]                                                         Train Loss: 0.2383 | Validation Loss: 0.2509
+Epoch [326/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.95s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.29s/it]                                                         Train Loss: 0.2374 | Validation Loss: 0.2508
+Epoch [327/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:30<00:00, 30.91s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.22s/it]                                                         Train Loss: 0.2363 | Validation Loss: 0.2506
+Epoch [328/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.48s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.22s/it]                                                         Train Loss: 0.2340 | Validation Loss: 0.2538
+Epoch [329/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.38s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.13s/it]                                                         Train Loss: 0.2336 | Validation Loss: 0.2577
+Epoch [330/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.64s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.13s/it]                                                         Train Loss: 0.2335 | Validation Loss: 0.2596
+Epoch [331/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.84s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.15s/it]                                                         Train Loss: 0.2326 | Validation Loss: 0.2590
+Epoch [332/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.71s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.30s/it]                                                         Train Loss: 0.2315 | Validation Loss: 0.2593
+Epoch [333/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.37s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.17s/it]                                                         Train Loss: 0.2307 | Validation Loss: 0.2610
+Epoch [334/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.68s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.22s/it]                                                         Train Loss: 0.2304 | Validation Loss: 0.2607
+Epoch [335/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:30<00:00, 30.89s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.15s/it]                                                         Train Loss: 0.2300 | Validation Loss: 0.2608
+Epoch [336/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.81s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.16s/it]                                                         Train Loss: 0.2292 | Validation Loss: 0.2664
+Epoch [337/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.27s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.14s/it]                                                         Train Loss: 0.2282 | Validation Loss: 0.2652
+Epoch [338/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.98s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.17s/it]                                                         Train Loss: 0.2270 | Validation Loss: 0.2617
+Epoch [339/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.56s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.30s/it]                                                         Train Loss: 0.2264 | Validation Loss: 0.2591
+Epoch [340/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.16s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.22s/it]                                                         Train Loss: 0.2257 | Validation Loss: 0.2575
+Epoch [341/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.09s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.13s/it]                                                         Train Loss: 0.2251 | Validation Loss: 0.2565
+Epoch [342/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.37s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.15s/it]                                                         Train Loss: 0.2243 | Validation Loss: 0.2630
+Epoch [343/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.61s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.07s/it]                                                         Train Loss: 0.2239 | Validation Loss: 0.2549
+Epoch [344/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:30<00:00, 30.99s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.17s/it]                                                         Train Loss: 0.2248 | Validation Loss: 0.2705
+Epoch [345/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.81s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.18s/it]                                                         Train Loss: 0.2235 | Validation Loss: 0.2651
+Epoch [346/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.40s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.18s/it]                                                         Train Loss: 0.2235 | Validation Loss: 0.2511
+Epoch [347/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.21s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.19s/it]                                                         Train Loss: 0.2274 | Validation Loss: 0.2608
+Epoch [348/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.44s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.15s/it]                                                         Train Loss: 0.2224 | Validation Loss: 0.2611
+Epoch [349/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.54s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.24s/it]                                                         Train Loss: 0.2207 | Validation Loss: 0.2599
+Epoch [350/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.56s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.17s/it]                                                         Train Loss: 0.2220 | Validation Loss: 0.2598
+Epoch [351/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.13s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.10s/it]                                                         Train Loss: 0.2189 | Validation Loss: 0.2647
+Epoch [352/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.08s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.21s/it]                                                         Train Loss: 0.2202 | Validation Loss: 0.2467
+Epoch [353/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.18s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.15s/it]                                                         Train Loss: 0.2224 | Validation Loss: 0.2579
+Epoch [354/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.15s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.15s/it]                                                         Train Loss: 0.2190 | Validation Loss: 0.2963
+Epoch [355/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.51s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.20s/it]                                                         Train Loss: 0.2222 | Validation Loss: 0.2486
+Epoch [356/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.63s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.28s/it]                                                         Train Loss: 0.2184 | Validation Loss: 0.2454
+Epoch [357/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.95s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.22s/it]                                                         Train Loss: 0.2187 | Validation Loss: 0.2638
+Epoch [358/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:33<00:00, 33.22s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.17s/it]                                                         Train Loss: 0.2196 | Validation Loss: 0.2449
+Epoch [359/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.14s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.12s/it]                                                         Train Loss: 0.2162 | Validation Loss: 0.2498
+Epoch [360/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.69s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.16s/it]                                                         Train Loss: 0.2170 | Validation Loss: 0.2745
+Epoch [361/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.63s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.14s/it]                                                         Train Loss: 0.2173 | Validation Loss: 0.2829
+Epoch [362/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:33<00:00, 33.04s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.19s/it]                                                         Train Loss: 0.2173 | Validation Loss: 0.2464
+Epoch [363/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.89s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.16s/it]                                                         Train Loss: 0.2194 | Validation Loss: 0.2369
+Epoch [364/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.73s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.20s/it]                                                         Train Loss: 0.2192 | Validation Loss: 0.2444
+Epoch [365/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:33<00:00, 33.10s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.19s/it]                                                         Train Loss: 0.2170 | Validation Loss: 0.2422
+Epoch [366/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:29<00:00, 29.96s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.11s/it]                                                         Train Loss: 0.2139 | Validation Loss: 0.2521
+Epoch [367/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.19s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.24s/it]                                                         Train Loss: 0.2146 | Validation Loss: 0.2766
+Epoch [368/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.34s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.17s/it]                                                         Train Loss: 0.2151 | Validation Loss: 0.2578
+Epoch [369/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.60s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.25s/it]                                                         Train Loss: 0.2122 | Validation Loss: 0.2569
+Epoch [370/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.69s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.20s/it]                                                         Train Loss: 0.2116 | Validation Loss: 0.2737
+Epoch [371/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.22s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.20s/it]                                                         Train Loss: 0.2111 | Validation Loss: 0.2677
+Epoch [372/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.22s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.25s/it]                                                         Train Loss: 0.2115 | Validation Loss: 0.2673
+Epoch [373/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.47s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.14s/it]                                                         Train Loss: 0.2215 | Validation Loss: 0.2668
+Epoch [374/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.45s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.06s/it]                                                         Train Loss: 0.2381 | Validation Loss: 0.2693
+Epoch [375/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.41s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.27s/it]                                                         Train Loss: 0.2242 | Validation Loss: 0.2664
+Epoch [376/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.67s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.10s/it]                                                         Train Loss: 0.2181 | Validation Loss: 0.2629
+Epoch [377/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.94s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.19s/it]                                                         Train Loss: 0.2183 | Validation Loss: 0.2680
+Epoch [378/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.02s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.14s/it]                                                         Train Loss: 0.2224 | Validation Loss: 0.2662
+Epoch [379/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.98s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.12s/it]                                                         Train Loss: 0.2148 | Validation Loss: 0.2873
+Epoch [380/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.99s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.13s/it]                                                         Train Loss: 0.2174 | Validation Loss: 0.2883
+Epoch [381/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.44s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.14s/it]                                                         Train Loss: 0.2133 | Validation Loss: 0.2517
+Epoch [382/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:34<00:00, 34.25s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.18s/it]                                                         Train Loss: 0.2125 | Validation Loss: 0.2511
+Epoch [383/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.39s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.11s/it]                                                         Train Loss: 0.2147 | Validation Loss: 0.2697
+Epoch [384/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.37s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.26s/it]                                                         Train Loss: 0.2090 | Validation Loss: 0.2806
+Epoch [385/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.42s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.13s/it]                                                         Train Loss: 0.2114 | Validation Loss: 0.2689
+Epoch [386/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.50s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.22s/it]                                                         Train Loss: 0.2057 | Validation Loss: 0.2526
+Epoch [387/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.59s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.14s/it]                                                         Train Loss: 0.2085 | Validation Loss: 0.2516
+Epoch [388/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.92s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.17s/it]                                                         Train Loss: 0.2042 | Validation Loss: 0.2670
+Epoch [389/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.98s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.05s/it]                                                         Train Loss: 0.2063 | Validation Loss: 0.2457
+Epoch [390/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.71s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.13s/it]                                                         Train Loss: 0.2037 | Validation Loss: 0.2513
+Epoch [391/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:30<00:00, 30.78s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.12s/it]                                                         Train Loss: 0.2055 | Validation Loss: 0.2685
+Epoch [392/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.17s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.11s/it]                                                         Train Loss: 0.2020 | Validation Loss: 0.2810
+Epoch [393/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.87s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.14s/it]                                                         Train Loss: 0.2012 | Validation Loss: 0.2519
+Epoch [394/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.89s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.13s/it]                                                         Train Loss: 0.1993 | Validation Loss: 0.2480
+Epoch [395/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.33s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.13s/it]                                                         Train Loss: 0.1990 | Validation Loss: 0.2651
+Epoch [396/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:33<00:00, 33.18s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.23s/it]                                                         Train Loss: 0.1979 | Validation Loss: 0.2519
+Epoch [397/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:33<00:00, 33.52s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.12s/it]                                                         Train Loss: 0.1974 | Validation Loss: 0.2676
+Epoch [398/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.47s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.16s/it]                                                         Train Loss: 0.2093 | Validation Loss: 0.2683
+Epoch [399/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.52s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.19s/it]                                                         Train Loss: 0.2180 | Validation Loss: 0.2689
+Epoch [400/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.44s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.13s/it]                                                         Train Loss: 0.1991 | Validation Loss: 0.2697
+Epoch [401/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.73s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.11s/it]                                                         Train Loss: 0.2018 | Validation Loss: 0.2553
+Epoch [402/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.67s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.27s/it]                                                         Train Loss: 0.2009 | Validation Loss: 0.2616
+Epoch [403/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.23s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.10s/it]                                                         Train Loss: 0.1988 | Validation Loss: 0.2668
+Epoch [404/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.46s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.19s/it]                                                         Train Loss: 0.1998 | Validation Loss: 0.2405
+Epoch [405/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.66s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.15s/it]                                                         Train Loss: 0.1966 | Validation Loss: 0.2509
+Epoch [406/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.37s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.17s/it]                                                         Train Loss: 0.1958 | Validation Loss: 0.2740
+Epoch [407/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.72s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.19s/it]                                                         Train Loss: 0.1925 | Validation Loss: 0.2726
+Epoch [408/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.33s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.15s/it]                                                         Train Loss: 0.1925 | Validation Loss: 0.2481
+Epoch [409/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.03s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.20s/it]                                                         Train Loss: 0.1912 | Validation Loss: 0.2457
+Epoch [410/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.62s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.13s/it]                                                         Train Loss: 0.1892 | Validation Loss: 0.2632
+Epoch [411/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.77s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.23s/it]                                                         Train Loss: 0.1892 | Validation Loss: 0.2656
+Epoch [412/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.93s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.21s/it]                                                         Train Loss: 0.1902 | Validation Loss: 0.2565
+Epoch [413/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.14s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.19s/it]                                                         Train Loss: 0.1944 | Validation Loss: 0.2559
+Epoch [414/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.53s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.17s/it]                                                         Train Loss: 0.1898 | Validation Loss: 0.2810
+Epoch [415/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.49s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.15s/it]                                                         Train Loss: 0.1891 | Validation Loss: 0.2793
+Epoch [416/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.14s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.16s/it]                                                         Train Loss: 0.1897 | Validation Loss: 0.2372
+Epoch [417/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.71s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.21s/it]                                                         Train Loss: 0.1885 | Validation Loss: 0.2380
+Epoch [418/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.58s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.25s/it]                                                         Train Loss: 0.1865 | Validation Loss: 0.2606
+Epoch [419/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:33<00:00, 33.09s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.21s/it]                                                         Train Loss: 0.1900 | Validation Loss: 0.2409
+Epoch [420/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.05s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.17s/it]                                                         Train Loss: 0.1868 | Validation Loss: 0.2332
+Epoch [421/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.74s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.11s/it]                                                         Train Loss: 0.1889 | Validation Loss: 0.2606
+Epoch [422/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.96s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.21s/it]                                                         Train Loss: 0.1850 | Validation Loss: 0.3108
+Epoch [423/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.56s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.15s/it]                                                         Train Loss: 0.1853 | Validation Loss: 0.2314
+Epoch [424/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.85s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.26s/it]                                                         Train Loss: 0.1811 | Validation Loss: 0.2267
+Epoch [425/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.47s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.09s/it]                                                         Train Loss: 0.1847 | Validation Loss: 0.2318
+Epoch [426/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:33<00:00, 33.32s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.11s/it]                                                         Train Loss: 0.1795 | Validation Loss: 0.2672
+Epoch [427/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.44s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.21s/it]                                                         Train Loss: 0.1803 | Validation Loss: 0.2683
+Epoch [428/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.00s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.11s/it]                                                         Train Loss: 0.1775 | Validation Loss: 0.2428
+Epoch [429/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.24s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.23s/it]                                                         Train Loss: 0.1765 | Validation Loss: 0.2342
+Epoch [430/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.54s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.23s/it]                                                         Train Loss: 0.1767 | Validation Loss: 0.2423
+Epoch [431/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.31s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.21s/it]                                                         Train Loss: 0.1765 | Validation Loss: 0.2619
+Epoch [432/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.92s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.11s/it]                                                         Train Loss: 0.1747 | Validation Loss: 0.2679
+Epoch [433/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.41s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.21s/it]                                                         Train Loss: 0.1740 | Validation Loss: 0.2698
+Epoch [434/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.64s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.11s/it]                                                         Train Loss: 0.1820 | Validation Loss: 0.2906
+Epoch [435/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.34s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.15s/it]                                                         Train Loss: 0.2145 | Validation Loss: 0.2734
+Epoch [436/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.55s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.17s/it]                                                         Train Loss: 0.2316 | Validation Loss: 0.2506
+Epoch [437/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.78s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.14s/it]                                                         Train Loss: 0.1912 | Validation Loss: 0.3080
+Epoch [438/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.29s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.27s/it]                                                         Train Loss: 0.2120 | Validation Loss: 0.3705
+Epoch [439/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.31s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.07s/it]                                                         Train Loss: 0.2138 | Validation Loss: 0.2589
+Epoch [440/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.73s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.19s/it]                                                         Train Loss: 0.1984 | Validation Loss: 0.2425
+Epoch [441/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.24s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.16s/it]                                                         Train Loss: 0.2026 | Validation Loss: 0.2433
+Epoch [442/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.28s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.20s/it]                                                         Train Loss: 0.2037 | Validation Loss: 0.2534
+Epoch [443/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.67s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.22s/it]                                                         Train Loss: 0.1919 | Validation Loss: 0.2753
+Epoch [444/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.04s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.10s/it]                                                         Train Loss: 0.1914 | Validation Loss: 0.2575
+Epoch [445/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.54s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.09s/it]                                                         Train Loss: 0.1871 | Validation Loss: 0.2364
+Epoch [446/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.75s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.14s/it]                                                         Train Loss: 0.1822 | Validation Loss: 0.2297
+Epoch [447/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.05s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.07s/it]                                                         Train Loss: 0.1818 | Validation Loss: 0.2322
+Epoch [448/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.88s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.12s/it]                                                         Train Loss: 0.1813 | Validation Loss: 0.2417
+Epoch [449/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.87s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.21s/it]                                                         Train Loss: 0.1789 | Validation Loss: 0.2558
+Epoch [450/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.40s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.30s/it]                                                         Train Loss: 0.1784 | Validation Loss: 0.2518
+Epoch [451/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:33<00:00, 33.15s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.29s/it]                                                         Train Loss: 0.1758 | Validation Loss: 0.2439
+Epoch [452/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:33<00:00, 33.98s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.26s/it]                                                         Train Loss: 0.1735 | Validation Loss: 0.2381
+Epoch [453/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.01s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.16s/it]                                                         Train Loss: 0.1725 | Validation Loss: 0.2365
+Epoch [454/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.39s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.12s/it]                                                         Train Loss: 0.1706 | Validation Loss: 0.2433
+Epoch [455/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:33<00:00, 33.49s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.26s/it]                                                         Train Loss: 0.1694 | Validation Loss: 0.2515
+Epoch [456/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.02s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.26s/it]                                                         Train Loss: 0.1684 | Validation Loss: 0.2492
+Epoch [457/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:31<00:00, 31.82s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.32s/it]                                                         Train Loss: 0.1670 | Validation Loss: 0.2438
+Epoch [458/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.59s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.27s/it]                                                         Train Loss: 0.1658 | Validation Loss: 0.2451
+Epoch [459/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.98s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.18s/it]                                                         Train Loss: 0.1639 | Validation Loss: 0.2560
+Epoch [460/2000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:32<00:00, 32.22s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.19s/it]                                                         Train Loss: 0.1628 | Validation Loss: 0.2596
+Epoch [461/2000]
 Training:   0%|          | 0/1 [00:00<?, ?it/s]
