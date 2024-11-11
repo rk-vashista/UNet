@@ -12,7 +12,6 @@ Welcome to the **UNet Image Segmentation** project! This repository provides cod
   - [Training](#training)
   - [Inference](#inference)
 - [Results](#results)
-- [Pre-Trained Model](#pre-trained-model)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -77,11 +76,11 @@ Example segmented images are saved in the `Result/` directory.
 
 ---
 
-## 📂 Pre-Trained Model
+<!-- ## 📂 Pre-Trained Model
 
 Download a sample pre-trained model [here](#) and place it in the `models/` directory for testing.
 
----
+--- -->
 
 ## 🤝 Contributing
 
