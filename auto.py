@@ -3,7 +3,7 @@ import torch
 from metest import single_image_inference  # Assuming the function is in single_image_inference.py
 
 # Set paths
-TEST_DATA_PATH = "./data/membrane/test"
+TEST_DATA_PATH = "./data/test"
 MODEL_PATH = "./models/unet.pth"
 RESULT_PATH = "./Result"
 
