@@ -4,7 +4,7 @@ from torch.utils.data import DataLoader, random_split
 from tqdm import tqdm
 
 from unet import UNet
-from carvana_dataset import CarvanaDataset
+from dataset import Dataset
 
 # Hyperparameters
 LEARNING_RATE = 3e-4
@@ -20,7 +20,7 @@ device = "cpu"
 # Initialize dataset
 if TRAIN:
     # Load training dataset and split into training and validation sets
-    full_dataset = CarvanaDataset(DATA_PATH, test=False)
+    full_dataset = Dataset(DATA_PATH, test=False)
     generator = torch.Generator().manual_seed(42)
     train_size = int(0.8 * len(full_dataset))
     val_size = len(full_dataset) - train_size
@@ -31,7 +31,7 @@ if TRAIN:
     val_dataloader = DataLoader(dataset=val_dataset, batch_size=BATCH_SIZE, shuffle=False)
 else:
     # Load test dataset
-    test_dataset = CarvanaDataset(DATA_PATH, test=True)
+    test_dataset = Dataset(DATA_PATH, test=True)
     test_dataloader = DataLoader(dataset=test_dataset, batch_size=BATCH_SIZE, shuffle=False)
 
 # Model, optimizer, and loss function

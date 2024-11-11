@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from torchvision import transforms
 from PIL import Image
 
-from carvana_dataset import CarvanaDataset
+from dataset import CarvanaDataset
 from unet import UNet
 
 def pred_show_image_grid(data_path, model_pth, device):
