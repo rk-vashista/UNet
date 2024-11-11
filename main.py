@@ -8,8 +8,8 @@ from dataset import Dataset
 
 # Hyperparameters
 LEARNING_RATE = 3e-4
-BATCH_SIZE = 32
-EPOCHS = 2000
+BATCH_SIZE = 64
+EPOCHS = 5000
 DATA_PATH = "data"
 MODEL_SAVE_PATH = "models/unet.pth"
 TRAIN = True  # Set this to False for testing
