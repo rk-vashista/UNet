@@ -1,166 +1,96 @@
-## U-Net Implementation With PyTorch
+# 🌐 UNet Image Segmentation
 
-<div align="center">
-    <a href="">
-        <img alt="open-source-image"
-        src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
-    </a>
-</div>
-<br/>
-<div align="center">
-    <p>Liked our work? give us a ⭐!</p>
-</div>
+Welcome to the **UNet Image Segmentation** project! This repository provides code for training and using a UNet model for image segmentation tasks, following the original paper ["U-Net: Convolutional Networks for Biomedical Image Segmentation"](https://arxiv.org/pdf/1505.04597).
 
-<p align="center">
-  <img src="./assets/U.png" height="70%%" width="70%%"/>
-</p>
+---
 
-This repository contains minimalistic implementation of U-Net that is introduced in the paper [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597) using PyTorch. Implementation has tested using [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge) by Kaggle.
+## 🌟 Table of Contents
 
-### YouTube Tutorial
-This repository also contains a corresponding YouTube tutorial with the title **Implement and Train U-NET From Scratch for Image Segmentation - PyTorch**
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Usage](#usage)
+  - [Training](#training)
+  - [Inference](#inference)
+- [Results](#results)
+- [Pre-Trained Model](#pre-trained-model)
+- [Contributing](#contributing)
+- [License](#license)
 
-[![Thumbnail](./assets/neww_thumb.png)](https://www.youtube.com/watch?v=HS3Q_90hnDg&t=10s)
+---
 
-## Table of Contents
-* [U-Net Implementation](#vitimp)
-    * [UNet](#unet)
-    * [DoubleConv](#doubleconv)
-    * [DownSample](#down)
-    * [UpSample](#up)
-* [Usage](#usage)
-* [Contact](#contact)
+## 📖 Introduction
 
-## U-Net Implementation <a class="anchor" id="imp"></a>
-We need four classes to implement U-Net. Parts of the `UNet` class which are `DownSample` to apply down sampling operation, `UpSample` to apply up sampling operation, `DoubleConv` to apply double convolution operation and the `UNet` as the main U-Net class.
+This project implements the **UNet architecture**, inspired by the paper ["U-Net: Convolutional Networks for Biomedical Image Segmentation"](https://arxiv.org/pdf/1505.04597), which pioneered the use of a fully convolutional network for efficient biomedical image segmentation. The UNet model is highly versatile and can be applied to various image segmentation tasks.
 
-### UNet <a class="anchor" id="unet"></a>
+> **Note**: While initially developed for biomedical applications, this UNet model is suitable for broader image segmentation challenges as well.
 
-```
-class UNet(nn.Module):
-    def __init__(self, in_channels, num_classes):
-        super().__init__()
-        self.down_convolution_1 = DownSample(in_channels, 64)
-        self.down_convolution_2 = DownSample(64, 128)
-        self.down_convolution_3 = DownSample(128, 256)
-        self.down_convolution_4 = DownSample(256, 512)
+---
 
-        self.bottle_neck = DoubleConv(512, 1024)
+## 🚀 Installation
 
-        self.up_convolution_1 = UpSample(1024, 512)
-        self.up_convolution_2 = UpSample(512, 256)
-        self.up_convolution_3 = UpSample(256, 128)
-        self.up_convolution_4 = UpSample(128, 64)
+To get started, clone the repository and install the necessary dependencies:
 
-        self.out = nn.Conv2d(in_channels=64, out_channels=num_classes, kernel_size=1)
-
-    def forward(self, x):
-       down_1, p1 = self.down_convolution_1(x)
-       down_2, p2 = self.down_convolution_2(p1)
-       down_3, p3 = self.down_convolution_3(p2)
-       down_4, p4 = self.down_convolution_4(p3)
-
-       b = self.bottle_neck(p4)
-
-       up_1 = self.up_convolution_1(b, down_4)
-       up_2 = self.up_convolution_2(up_1, down_3)
-       up_3 = self.up_convolution_3(up_2, down_2)
-       up_4 = self.up_convolution_4(up_3, down_1)
-
-       out = self.out(up_4)
-       return out
+```sh
+git clone https://github.com/rk-vashista/unet-image-segmentation.git
+cd unet-image-segmentation
+pip install -r requirements.txt
 ```
 
-### DoubleConv <a class="anchor" id="doubleconv"></a>
+---
 
-```
-class DoubleConv(nn.Module):
-    def __init__(self, in_channels, out_channels):
-        super().__init__()
-        self.conv_op = nn.Sequential(
-            nn.Conv2d(in_channels, out_channels, kernel_size=3, padding=1),
-            nn.ReLU(inplace=True),
-            nn.Conv2d(out_channels, out_channels, kernel_size=3, padding=1),
-            nn.ReLU(inplace=True)
-        )
+## 🛠️ Usage
 
-    def forward(self, x):
-        return self.conv_op(x)
+### Training
+To train the model, use the following command:
+
+```sh
+python main.py
 ```
 
-### DownSample <a class="anchor" id="down"></a>
+Hyperparameters such as learning rate, batch size, and epochs can be adjusted in the `main.py` file.
 
-```
-class DownSample(nn.Module):
-    def __init__(self, in_channels, out_channels):
-        super().__init__()
-        self.conv = DoubleConv(in_channels, out_channels)
-        self.pool = nn.MaxPool2d(kernel_size=2, stride=2)
+### Inference
+Run predictions on images in the `test/` directory:
 
-    def forward(self, x):
-        down = self.conv(x)
-        p = self.pool(down)
-
-        return down, p
+```sh
+python auto.py
 ```
 
-### UpSample <a class="anchor" id="up"></a>
-```
-class UpSample(nn.Module):
-    def __init__(self, in_channels, out_channels):
-        super().__init__()
-        self.up = nn.ConvTranspose2d(in_channels, in_channels//2, kernel_size=2, stride=2)
-        self.conv = DoubleConv(in_channels, out_channels)
+Alternatively, you can use `single_image_inference` in `metest.py` for a single image:
 
-    def forward(self, x1, x2):
-       x1 = self.up(x1)
-       x = torch.cat([x1, x2], 1)
-       return self.conv(x)
+```python
+from metest import single_image_inference
+single_image_inference("path/to/your/image.jpg")
 ```
 
-## Usage <a class="anchor" id="usage"></a>
+Segmented outputs will be saved in the `Result/` directory.
 
-### Project Structure <a class="anchor" id="ps"></a>
-Project structured as follows:
+---
 
-```
-.
-└── src/
-    ├── carvana_dataset.py
-    ├── unet.py
-    ├── unet_parts.py
-    ├── main.py
-    ├── inference.py
-    ├── data/
-    │   ├── manual_test
-    │   ├── manual_test_mask
-    │   ├── train
-    │   └── train_mask
-    └── models/
-```
+## 🎨 Results
 
-`carvana_dataset.py` creates the PyTorch dataset. `unet_parts.py` contains the building blocks for the U-Net. `unet.py` is the file that contains the U-Net architecture. `main.py` file contains the training loop. `inference.py` contains necessary functions to easly run inference for single and multiple images.
+Example segmented images are saved in the `Result/` directory.
 
-`models/` directory is to save and store the trained models.
+| Segmented Image 1 | Segmented Image 2 |
+|-------------------|-------------------|
+| ![Segmented Image 1](Result/result_1.png) | ![Segmented Image 2](Result/result_7.png) |
 
-`data/` directory contains the data you're going to train on. `train/` contains images and `train_mask/` contains masks for the images. `manual_test/` and `manual_test_mask/` are optional directories for showcasing the inference.
+---
 
-### Pre-Trained Model <a class="anchor" id="ptm"></a>
-You can download a sample pre-trained model from [here](https://drive.google.com/file/d/1evei4cZkBlpoq70iapItN1ojldIXSOc2/view?usp=sharing). Put the model into the `models/` directory.
+## 📂 Pre-Trained Model
 
-### Inference <a class="anchor" id="inference"></a>
-`inference.py` file provides two functions for inference. If you want to run prediction on multiple images, you must use `pred_show_image_grid()` function by giving your data path, model path and device as arguments.
+Download a sample pre-trained model [here](#) and place it in the `models/` directory for testing.
 
-If you want to run the prediction on single image, you must use `single-image-inference()` function by giving image path, model path and your device as arguments. 
+---
 
-You can view a sample use inside `inference.py`.
+## 🤝 Contributing
 
-### Training <a class="anchor" id="training"></a>
-In order to train the model you must run the command `python main.py`. File has hyperparameters of `LEARNING_RATE`, `BATCH_SIZE` and `EPOCHS`. You can change them as you like.
+Contributions are welcome! Please open an issue for suggestions or bug fixes, or submit a pull request with improvements.
 
-You must give your data directory and the directory you want to save your model to `DATA_PATH` and `MODEL_SAVE_PATH` variables in the `main.py` file.
+---
 
-By the end of the training your model will be saved into the `MODEL_SAVE_PATH`.
+## 📄 License
 
-## Contact <a class="anchor" id="contact"></a>
-You can contact me with this email address: uygarsci@gmail.com
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
