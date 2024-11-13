@@ -40,7 +40,7 @@ def single_image_inference(image_pth, model_pth, device):
 
 
 if __name__ == "__main__":
-    SINGLE_IMG_PATH = "./data/train/image/2.png"
+    SINGLE_IMG_PATH = "./data/train/image/1.png"
     DATA_PATH = "./data"
     MODEL_PATH = "./models/unet.pth"
 
