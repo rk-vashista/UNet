@@ -9163,4 +9163,10 @@ Epoch [4581/5000]
 Epoch [4582/5000]
 Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:25<00:00, 25.08s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:02<00:00,  2.83s/it]                                                         Train Loss: 0.0640 | Validation Loss: 0.5314
 Epoch [4583/5000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:27<00:00, 27.82s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:03<00:00,  3.03s/it]                                                         Train Loss: 0.0644 | Validation Loss: 0.5292
+Epoch [4584/5000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:25<00:00, 25.84s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:02<00:00,  2.79s/it]                                                         Train Loss: 0.0642 | Validation Loss: 0.5648
+Epoch [4585/5000]
+Training:   0%|          | 0/1 [00:00<?, ?it/s]Training: 100%|██████████| 1/1 [00:27<00:00, 27.30s/it]                                                       Validation:   0%|          | 0/1 [00:00<?, ?it/s]Validation: 100%|██████████| 1/1 [00:02<00:00,  2.93s/it]                                                         Train Loss: 0.0635 | Validation Loss: 0.5626
+Epoch [4586/5000]
 Training:   0%|          | 0/1 [00:00<?, ?it/s]
